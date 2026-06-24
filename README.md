@@ -15,10 +15,11 @@ toward a SOC / blue team role.
 | Meow | Starting Point (Tier 0) | telnet, weak auth | [meow](starting-point/meow/meow.md) |
 | Fawn | Starting Point (Tier 0) | FTP, anonymous login | [fawn](starting-point/fawn/fawn.md) |
 | Dancing | Starting Point (Tier 0) | SMB, null session | [dancing](starting-point/dancing/dancing.md) |
+| Redeemer | Starting Point (Tier 0) | Redis, unauth access | [redeemer](starting-point/redeemer/redeemer.md) |
 
 ### Planned (working through these next)
 
-Redeemer (Redis) · Explosion (RDP) · Preignition (web enum)
+Explosion (RDP) · Preignition (web enum)
 
 ## How I write these up
 
