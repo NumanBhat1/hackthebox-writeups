@@ -17,9 +17,7 @@ toward a SOC / blue team role.
 | Dancing | Starting Point (Tier 0) | SMB, null session | [dancing](starting-point/dancing/dancing.md) |
 | Redeemer | Starting Point (Tier 0) | Redis, unauth access | [redeemer](starting-point/redeemer/redeemer.md) |
 
-### Planned (working through these next)
-
-Explosion (RDP) · Preignition (web enum)
+More writeups added as I work through new machines.
 
 ## How I write these up
 
